@@ -25,4 +25,4 @@ def validate():
         output = mapping(string1, string2)
     except ValueError:
         output = "Please enter a valid input"
-    print(output)
+    return output
