@@ -5,4 +5,4 @@ returns true if can and returns false if cannot
 from mapping import validate
 
 if __name__ == '__main__':
-    validate()
+    print(validate())
